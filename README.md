@@ -1,6 +1,7 @@
 # Standup Comedian Transcript Analysis and Generation
 ## NLP-Project-Sem6
-This is an NLP project for Semester 6, Stand-up comedian transcript generation
+This project analysis standup comedian transcripts and generates a new transcript.
+Data is scraped from youtube and other relevant websites.
 
 ## Team Members
 * Afzal Mukhtar
